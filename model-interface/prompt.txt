@@ -1,0 +1,5 @@
+"""
+Table customers, columns = [CustomerId, FirstName, LastName, Company, Address, City, State, Country, PostalCode, Phone, Fax, Email, SupportRepId]
+Create a MySQL query for all customers in Texas named Jane
+"""
+query =

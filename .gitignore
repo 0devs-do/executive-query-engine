@@ -1,0 +1,10 @@
+admin/config.txt
+data/file.txt
+data/output-staging/coin_assets_20230212.csv
+data/output-staging/coin_assets_info_20230113.csv
+data/output-staging/coin_assets_info1_20230113.csv
+data/output-staging/coin_assets_info2_20230113.csv
+data/output-staging/coin_assets_info3_20230113.csv
+data/output-staging/coin_exchanges_20230212.csv
+data/output-staging/coin_markets_20230212.csv
+data/output-staging/extractworkbook.xlsx
